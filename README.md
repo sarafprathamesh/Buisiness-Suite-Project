@@ -1,2 +1,2 @@
 # Buisiness-Suite-Project
-CDAC Project for ERP
+CDAC Project for Enterprise Resource Planning
